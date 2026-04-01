@@ -1,5 +1,21 @@
-# 💫 About Me:
-- 🔭 I’m currently working on cloud infrastructure projects using AWS and Terraform  <br>- 👯 I’m looking to collaborate on DevOps and automation projects  <br>Programming languages : python, c,  c++, java, shell scripting<br>database : sql<br>- 🤝 I’m looking for help with Kubernetes and CI/CD pipeline optimization  <br>- 🌱 I’m currently learning Docker, Kubernetes, AWS and advanced Linux system administration  <br>- 💬 Ask me about Linux, shell scripting, and cloud basics  <br>- ⚡ Fun fact: I enjoy automating everything I can 🚀  
+## 🚀 About Me
+
+* 🔭 **Currently working on:**
+  Cloud infrastructure projects using **AWS** and **Terraform**
+* 👯 **Looking to collaborate on:**
+  DevOps and automation projects
+* 💻 **Programming Languages:**
+  Python, C, C++, Java, Shell Scripting
+* 🗄️ **Database:**
+  SQL
+* 🤝 **Looking for help with:**
+  Kubernetes and CI/CD pipeline optimization
+* 🌱 **Currently learning:**
+  Docker, Kubernetes, AWS, and advanced Linux system administration
+* 💬 **Ask me about:**
+  Linux, shell scripting, and cloud fundamentals
+* ⚡ **Fun fact:**
+  I enjoy automating everything I can 🚀
 
 
 ## 🌐 Socials:
